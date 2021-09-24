@@ -1,0 +1,23 @@
+{
+  "name": "learn_intern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngoclinhhoaminh21/Learn_Intern.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ngoclinhhoaminh21/Learn_Intern/issues"
+  },
+  "homepage": "https://github.com/ngoclinhhoaminh21/Learn_Intern#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
